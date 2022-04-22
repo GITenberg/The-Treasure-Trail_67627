@@ -6,6 +6,9 @@ contributor:
     alias: Gowing, L. D. (Louis D.)
     gutenberg_agent_id: '40603'
     url: http://www.gutenberg.org/2009/agents/40603
+covers:
+- cover_type: archival
+  image_path: 67627-h/images/cover.jpg
 creator:
   author:
     agent_name: Pollock, Frank Lillie
@@ -19,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36703
     wikipedia: https://en.wikipedia.org/wiki/Francis_Pollock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67627#The-Treasure-Trail
 gutenberg_issued: '2022-03-13'
 identifiers:
   gutenberg: '67627'
